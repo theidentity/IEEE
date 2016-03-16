@@ -1,0 +1,39 @@
+.body{
+	margin :0px;
+	font-family: "Lato",sans-serif;
+}
+.redbg{
+	/*background-color: red;*/
+}
+.whitetext{
+	color: white;
+}
+.lettersp5px{
+	/*letter-spacing: 5px;*/
+}
+.blk{
+	font-size: large;
+	font-weight: bold;
+	margin: 0;
+	text-align: justify;
+	/*text-decoration: underline;*/
+	text-transform: capitalize;
+}
+.blk:hover{
+	text-transform: uppercase;
+}
+.container{
+	width:70%;
+	border: 5px;
+	background: #aaa;
+	font-size: inherit;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2em;
+}
+
+.round{
+	height: 100px;
+	width: 100px;
+	border-radius : 50%;
+}

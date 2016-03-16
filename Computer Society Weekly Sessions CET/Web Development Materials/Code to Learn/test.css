@@ -1,0 +1,38 @@
+body
+{
+
+	/*background: #485563;*/
+    background: linear-gradient(to left, #485563, #29323c);
+	font-family: "Lato",sans-serif;
+	color: white;
+	padding: 2em;
+}	
+
+h1{
+	font-weight: bolder;
+}	
+
+p{
+	padding: 5px 10px 5px 10px;
+    /*top    right    bottom    left*/
+}
+
+.span_one{
+	font-family: "Helvetica",sans-serif;
+	color: white;
+	font-style: italic;
+	font-weight: bolder;
+	background-color: red;
+	padding: .2em;
+}
+
+.ipadphoto{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
